@@ -67,7 +67,7 @@
 
 - 🎯 My goals include: Gaining real-world ethical hacking experience, developing backend APIs, and building impactful projects.
 
-- 📫 How to reach me: **saif.ethicalhacker@gmail.com**
+- 📫 How to reach me: **saif.350663@gmail.com**
 
 - ⚡ Fun fact: **I love anime, coding, and experimenting with cybersecurity tools.**
 

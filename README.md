@@ -5,7 +5,6 @@
 <br/>
 
 <p>
-  <a href="https://twitter.com/saif_eth"><img src="https://img.shields.io/badge/Twitter-%40saif__eth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/saif-bca"><img src="https://img.shields.io/badge/LinkedIn-saif--bca-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saif.350663@gmail.com"><img src="https://img.shields.io/badge/Gmail-saif.350663-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=saif-eth&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS"/>

@@ -1,125 +1,109 @@
-<!-- <h1 align="center">Hi 👋, I'm Saif aka Soku</h1>
-<h3 align="center">Hunting Vulns, Crafting Code: Pen-tester & Python Wizard</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soku-noob&label=Profile%20views&color=0e75b6&style=flat" alt="soku-noob" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Saif;Ethical+Hacker+%26+Python+Dev;Bug+Bounty+Hunter+%F0%9F%90%9B;From+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Penetration testing, python**
+<br/>
 
-- 💬 Ask me about **Python**
+**Cybersecurity Enthusiast · Ethical Hacker · Python Developer**
 
-- ⚡ Fun fact **I like Anime**
-  
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=saif-eth&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/saif-eth)
+[![Twitter](https://img.shields.io/badge/Twitter-%40saif__eth-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saif_eth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--bca-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saif-bca)
+[![Email](https://img.shields.io/badge/Gmail-saif.350663%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saif.350663@gmail.com)
 
-<hr>
+</div>
 
-## My Skills
+---
 
-### Languages
+## 🧑‍💻 About Me
 
-![My Skills](https://skills.thijs.gg/icons?i=python,html,css,c,cpp&theme=dark) 
+I'm **Saif** — a cybersecurity enthusiast, ethical hacker, and Python developer passionate about offensive security, vulnerability research, and security automation.
 
-### Frameworks and platforms
+- 🔍 **Primary focus:** Web Application Security, VAPT, OWASP Top 10, Linux & Networking
+- 🐛 **Currently:** Bug bounty hunting · OSCP techniques · Subdomain enumeration
+- 🔨 **Building:** Mobile E-commerce app — Jetpack Compose · FastAPI · PostgreSQL
+- 📖 **Reading:** *Black Hat Python* — building tools for offense and defense
+- 🧪 **Labs:** WebGoat · SQL Injection · XSS · IDOR · CSRF · and more
+- 🎯 **Goal:** Become a skilled security professional and contribute to the cybersecurity community
+- ⚡ **Fun fact:** Anime + code + CTFs = perfect evening
 
-![My Skills](https://skills.thijs.gg/icons?i=linux,bootstrap&theme=dark)
-<img width="50" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/JetpackCompose_logo_wTaQajj.png" alt="jetpack compose" title= "jetpack compose"/>
+---
 
-### Databases
+## 🛡️ Security Skills
 
-![My Skills](https://skills.thijs.gg/icons?i=mysql,firebase&theme=dark)
+| Domain | Tools & Concepts |
+|--------|-----------------|
+| **Web App Security** | Burp Suite · OWASP ZAP · SQLMap · SQLi · XSS · IDOR · CSRF |
+| **Reconnaissance** | Sublist3r · Amass · theHarvester · Shodan · OSINT |
+| **Network Security** | Wireshark · Nmap · Netcat · tcpdump |
+| **Exploitation** | Metasploit · Manual exploitation · WebGoat Labs |
+| **OS & Environment** | Kali Linux · Linux CLI · Bash scripting |
 
-### Tools
+---
 
-![My Skills](https://skills.thijs.gg/icons?i=vscode,github&theme=dark)
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+## 💻 Tech Stack
 
-## Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soku-noob&" alt="soku-noob" /></p>
-
-## 📬 Get in touch
-
-<p>
-<a href="https://www.linkedin.com/in/saif-2744ab2a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://discord.gg/RS7nNtdvAg" target="_blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord&theme=dark" height="30" width="40" alt="discord"/></a>
-</p>
-
-----
--->
-
-<h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">An Aspiring Ethical Hacker and Developer from Delhi, India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGU4NjZ3MTRoZGVna2ZsaTU0bGY5NGo4ZXlrNHpodGd2ZmZpNDViZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-eth&label=Profile%20views&color=0e75b6&style=flat" alt="saif-eth" /> </p>
-
-- 🔭 I’m currently working on **Mobile E-commerce Project (Jetpack Compose, FastAPI, PostgreSQL)**
-
-- 🌱 I’m currently learning **Black Hat Python**, **OSCP Techniques**, and **Subdomain Enumeration**
-
-- 👨‍💻 All of my projects and write-ups will be available soon! Stay tuned.
-
-- 📚 I’m polishing my skills with **WebGoat** and practicing **SQL Injection**, **XSS**, and other web vulnerabilities.
-
-- 🤔 I’m exploring backend development with **FastAPI** and **PostgreSQL**.
-
-- 🎯 My goals include: Gaining real-world ethical hacking experience, developing backend APIs, and building impactful projects.
-
-- 📫 How to reach me: **saif.350663@gmail.com**
-
-- ⚡ Fun fact: **I love anime, coding, and experimenting with cybersecurity tools.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saif_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saif_eth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saif-bca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-bca" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,kotlin&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,linux,bash,postgresql&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,postman,firebase&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-    <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jetpack compose" width="40" height="40"/> 
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Wireshark_Icon.png" alt="wireshark" width="40" height="40"/> 
-  </a> 
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/Content/Images/burp-suite-logo.png" alt="burp suite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kali.org/images/logos/kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-eth&show_icons=true&locale=en&layout=compact" alt="saif-eth" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saif-eth&show_icons=true&locale=en" alt="saif-eth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-eth&" alt="saif-eth" /></p>
-
+## 📊 GitHub Stats
 
 <p align="center">
-Thanks for visiting 😎🤝
+  <img src="https://github-readme-stats.vercel.app/api?username=saif-eth&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41" alt="Saif's GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-eth&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Top Languages" height="170"/>
 </p>
 
-<!---
-Soku124/Soku124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saif-eth&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+> 📜 *Add your cert badges below — examples included as comments*
+
+<!-- 
+To add your TryHackMe badge, replace YOUR_USERNAME below:
+<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe" />
+
+To add cert badges, use this format:
+[![CERT NAME](https://img.shields.io/badge/CERT_NAME-Issuer-red?style=for-the-badge)](https://link-to-cert)
+-->
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+
+---
+
+## 🐛 Bug Bounty
+
+- 🎯 Actively hunting on public bug bounty programs
+- 🔍 Focused on: web vulnerabilities, subdomain takeovers, misconfigurations
+- 📝 Write-ups coming soon — stay tuned!
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 Projects and write-ups loading... stay tuned!
+
+---
+
+<div align="center">
+
+```
+"The quieter you become, the more you are able to hear."  —  Kali Linux
+```
+
+*Thanks for visiting — feel free to connect!* 😎🤝
+
+</div>
